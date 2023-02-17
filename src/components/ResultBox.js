@@ -34,7 +34,7 @@ const ResultBox = ({ result, setResult, handleRefresh }) => {
       <div className="flex flex-row w-full  rounded-md items-center justify-between ml-8">
         <div>
           <h1 className="text-[#F8FAFC] font-bold text-xl">
-            Merlin Says {counter}
+            Merlin Says: {" "}
           </h1>
         </div>
         <div className="flex flex-row items-center justify-center hover:cursor-pointer mr-4">

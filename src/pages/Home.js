@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import Header from "../components/Header";
 import InputBox from "../components/InputBox";
 import { FrequentlyCommands } from "../components/FrequentlyCommands";
 import ResultBox from "../components/ResultBox";
